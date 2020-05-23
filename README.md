@@ -4,7 +4,7 @@ Coven Undone Modpack Github for collecting and tracking issues
 ## Packtester Input
 Thanks to everyone who has tried Coven Undone in its earliest stages! I put together some questions that would help me improve the pack into a beta release, so if you would like to help Coven Undone, I would love to hear you're input!
 
-Regardless, please hit up the [Discord](https://discord.gg/k7vJrk), if only to say hi! Thanks again to everyone!
+Regardless, please hit up the [Discord](https://discord.gg/CCnupA8), if only to say hi! Thanks again to everyone!
 
 #### What feels grindy?
 - While this pack should be hard, I don't want it to be a complete grind
